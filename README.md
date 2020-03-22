@@ -5,6 +5,9 @@ Features:
 * Dark Mode
 * Widget
 
+[TickerIO App Store](https://apps.apple.com/us/app/tickerio/id1481563898)
+
+
 In collaboration with Drew Stephens.
 [Android Code](https://github.com/devramstein/TickerIO-1)
 
